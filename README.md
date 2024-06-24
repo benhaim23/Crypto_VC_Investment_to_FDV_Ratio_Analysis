@@ -10,7 +10,7 @@ In the rapidly evolving world of crypto investing, it is crucial for retail inve
 
 ## Data Source
 
-The data used in this analysis was queried from [https://dune.com/queries/3855822], a powerful platform that provides access to on-chain data and allows users to create custom queries and dashboards. I attached a csv of the dataset extracted from my notebook in the repo.
+The data used in this analysis was queried from (Dune)[https://dune.com/queries/3855822], a powerful platform that provides access to on-chain data and allows users to create custom queries and dashboards. I attached a csv of the dataset extracted from my notebook in the repo.
 
 ## Analysis
 
@@ -30,7 +30,7 @@ The notebook includes:
 
 ## Usage
 
-To view this notebook, click this link to my google colab: [https://bit.ly/Crypto_VC_Investment_to_FDV_Ratio_Analysis]
+To view this notebook, click this link to my google colab: (Notebook)[https://bit.ly/Crypto_VC_Investment_to_FDV_Ratio_Analysis]
 
 ## Conclusion
 
