@@ -1,0 +1,29 @@
+project,vc_dominance,dump_pressure,supply (units),circ_supply (units),investor_unlock_date,supply_unlock (M),lead,vesting_type,investor_supply (%),raised_amount (M),avg_inv_round_fdv (M),circ_mc (M),fdv (M),unrealised_roi (%),avg_inv_supply_percentage (%),avg_unrealized_roi (%),vc_investment_to_fdv_ratio (%)
+LayerZero,HIGH,LOW,1000000000,250000000,2025-06-20,12.88,A16Z,"1 year cliff, 4% monthly for 24 months",32.2,263.3,817.7,722.7,2890.81,353.53,18.98,1594.46,9.11
+ZKsync,LOW,LOW,21000000000,3675000000,2025-06-17,397.2,Dragonfly,"1 year cliff, 11% in June 25 than 2.47% monthly for 36 months",17.2,458.0,2662.79,636.31,3636.03,136.55,18.98,1594.46,12.6
+OMNI,HIGH,HIGH,100000000,10391492,2025-04-17,23.7,Pantera,"33% Unlock after 1 year cliff, rest 67% following half yearly linear for 24 months",20.1,18.0,89.55,139.66,1344.0,1500.8,18.98,1594.46,1.34
+REZ,HIGH,HIGH,10000000000,1150000000,2025-04-30,315.6,Binance,"1 year cliff, than 10% unlock on 30/4/25, than 7.5% monthly linear for next 12 months",31.56,20.2,25.0,108.85,946.51,3786.04,18.98,1594.46,2.13
+Ethena (ENA),HIGH,HIGH,15000000000,1425000000,2025-04-02,937.5,Dragonfly,1 Year cliff/ Linear 36 months,25.0,20.5,82.0,820.22,8633.91,10529.16,18.98,1594.46,0.24
+SAGA,HIGH,HIGH,1003461797,91265426,2025-04-09,66.0,Placeholder,"1 year cliff, 33% Unlock on 9/4/25, 2.79% monthly linear 24 months",20.0,13.5,67.5,125.03,1374.74,2036.66,18.98,1594.46,0.98
+Celestia,HIGH,HIGH,1036164383,177207911,2024-10-31,65.01,Binance,"33% unlock in Oct, 12 months linear vesting afterwords",35.6,111.59,313.46,1091.6,6382.77,2036.26,18.98,1594.46,1.75
+Altlayer,HIGH,HIGH,10000000000,1255208333,2024-07-25,314.5,Polychain,"17% Unlock in Jul end, 2.77% monthly/ 29 months",18.5,21.6,116.76,229.64,1829.49,1566.92,18.98,1594.46,1.18
+Aptos,LOW,LOW,1090837026,424413119,2024-07-12,59.0,Dragonfly,Linear unlock/ 35 Months,13.5,350.0,2592.59,2873.28,7384.97,284.85,18.98,1594.46,4.74
+ARB,LOW,HIGH,10000000000,2653939384,2024-07-16,584.31,Lightspeed,2.08% monthly till 16 march 2027,17.5,123.7,706.86,2109.28,7947.73,1124.38,18.98,1594.46,1.56
+Arkham,LOW,HIGH,1000000000,204600000,2024-07-18,0.17,Coinbase,1 year cliff/ 0.10% daily linear/ 3% monthly for 36 Months,17.5,14.5,82.86,366.23,1790.0,2160.34,18.98,1594.46,0.81
+Astar,LOW,LOW,8425076300,5630222217,2024-07-18,189.17,Polychain,2.43% monthly till 18 Jan 2027,10.0,44.8,448.0,382.38,572.19,127.72,18.98,1594.46,7.83
+ATH,LOW,HIGH,42000000000,3780000000,2025-06-12,193.2,Hashkey,"1 year cliff, 4% monthly for 24 months",11.5,9.0,90.0,265.26,2947.3,3274.77,18.98,1594.46,0.31
+Connext,HIGH,LOW,1000000000,106841704,2024-07-05,17.25,Polychain,1 year cliff/ 12 Months Linear,33.6,29.28,87.14,26.49,247.94,284.53,18.98,1594.46,11.81
+CyberConnect,HIGH,LOW,100000000,11038000,2024-08-14,1.93,Multicoin,"First unlock in August, 7.69% Quartley for 3 years",25.1,30.51,121.55,56.29,510.0,419.57,18.98,1594.46,5.98
+DIMO,LOW,LOW,1000000000,214260253,2024-12-12,5.85,Coinfund,2 year Cliff/ 7.69% Linear,7.6,20.5,269.74,34.85,162.65,60.3,18.98,1594.46,12.6
+Dymension,LOW,HIGH,1000000000,163801702,2025-02-06,0.19,Big brain Holding,1 year Cliff/ 4.2% Monthly / 24 Months,14.0,6.7,47.86,25.23,1540.0,3217.91,18.98,1594.46,0.44
+MANTA,HIGH,LOW,1000000000,250036078,2025-01-19,6.52,Polychain,1 year cliff/ 2.7% Monthly / 36 Months,24.07,60.4,250.93,244.22,976.74,389.24,18.98,1594.46,6.18
+Maverick Protocol,LOW,LOW,2000000000,250000000,2024-07-28,30.0,Pantera,Linear/ 33 Months,18.0,17.0,94.44,73.2,585.57,620.01,18.98,1594.46,2.9
+MAVIA,LOW,HIGH,250000000,30000000,2024-08-06,3.43,Binance,Linear/ 69 Months,15.0,8.0,53.33,53.67,447.25,838.59,18.98,1594.46,1.79
+ONDO,LOW,HIGH,10000000000,1443764727,2025-01-18,645.12,Pantera,"25% TGE, 1 year cliff, 25% annually for 3 years",12.9,46.06,357.05,1618.26,11208.64,3139.2,18.98,1594.46,0.41
+OP,LOW,LOW,4294967296,1045379867,2024-06-30,380.25,A16Z,"25% unlock happened in May 2023, 0.06% daily linear for 36 Months",17.0,267.5,1573.53,1829.41,7516.19,477.66,18.98,1594.46,3.56
+Pixels,LOW,HIGH,5000000000,771041667,2025-02-19,18.92,Animoca,1 year cliff / 36 Months Linear,14.0,7.2,51.43,207.69,1346.84,2618.85,18.98,1594.46,0.53
+SEI,HIGH,HIGH,10000000000,2675000000,2024-08-16,54.06,Multicoin,1 Year Cliff/ 2.7% Monthly / 36 Months,20.0,45.0,225.0,939.64,3512.69,1561.2,18.98,1594.46,1.28
+Starknet,HIGH,LOW,10000000000,728000000,2024-07-15,121.72,Pantera,2 month cliff/ 35 Months Linear,18.2,28.25,1552.2,514.84,7071.96,455.61,18.98,1594.46,0.4
+SUI,LOW,LOW,10000000000,1295901469,2024-07-03,806.12,A16Z,33% Unlock next month than 2.79% monthly unlock for 2 years,14.1,33.6,2382.98,1161.7,8964.4,376.18,18.98,1594.46,0.37
+Wormhole (W),LOW,LOW,10000000000,1800000000,2025-04-04,290.0,Multicoin,1 year cliff/ 25% annual every year for 36 Months,11.6,225.0,1939.66,609.47,3385.97,174.57,18.98,1594.46,6.65
+ZETA,LOW,LOW,2100000000,236468750,2024-08-01,18.66,CMT Digital,5.55% monthly Post August for 5 months than 2.78% for 24 months linear,16.0,27.06,168.75,207.78,1845.25,1093.48,18.98,1594.46,1.47
