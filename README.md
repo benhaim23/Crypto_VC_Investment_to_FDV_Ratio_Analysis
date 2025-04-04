@@ -30,7 +30,7 @@ The notebook includes:
 
 ## Usage
 
-To view this notebook, click this link to my google colab: [Notebook]([(https://bit.ly/Crypto_VC_Investment_to_FDV_Ratio_Analysis])
+To view this notebook, click this link to my google colab: [(https://bit.ly/Crypto_VC_Investment_to_FDV_Ratio_Analysis)]
 
 ## Conclusion
 
